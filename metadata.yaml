@@ -1,0 +1,33 @@
+_repo: Karjalan-kankahilta-I-Kertoelmia_61748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Juuti, Kustaa
+    aliases:
+    - Koito
+    - Juuti, K. J.
+    - Juuti, Kustaa Jonatan
+    birthdate: 1855
+    deathdate: 1911
+    gutenberg_agent_id: '51096'
+    url: http://www.gutenberg.org/2009/agents/51096
+    wikipedia: https://fi.wikipedia.org/wiki/K._J._Juuti
+description: ''
+gutenberg_issued: '2020-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61748'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 19th century'
+- !lcc 'PH'
+- !lcsh 'Short stories, Finnish'
+- GITenberg
+tableOfContents: Oppipojan kertomus -- Mannisten kaupunki -- Kaksi hirttoyritystä.
+title: 'Karjalan kankahilta I
+
+  Kertoelmia'
+url: http://www.gutenberg.org/ebooks/61748
